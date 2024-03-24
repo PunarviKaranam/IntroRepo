@@ -1,11 +1,11 @@
 import org.openqa.selenium.By;
 
 
-public class Test1 {
+public class Introduction2 {
 public static void main(String[] args) {
 	
 	
-	System.out.println("Hello");
+	System.out.println("Hello2");
 	
 }
 
