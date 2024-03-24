@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-18T13:10:57 SGT" name="Default suite" finished-at="2024-03-18T13:10:57 SGT" duration-ms="14">
+    <groups>
+    </groups>
+    <test started-at="2024-03-18T13:10:57 SGT" name="Default test" finished-at="2024-03-18T13:10:57 SGT" duration-ms="14">
+      <class name="Intro2">
+        <test-method signature="Method1()[pri:0, instance:Intro2@27ae2fd0]" started-at="2024-03-18T13:10:57 SGT" name="Method1" finished-at="2024-03-18T13:10:57 SGT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Method1 -->
+        <test-method signature="Method2()[pri:0, instance:Intro2@27ae2fd0]" started-at="2024-03-18T13:10:57 SGT" name="Method2" finished-at="2024-03-18T13:10:57 SGT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Method2 -->
+        <test-method signature="Method3()[pri:0, instance:Intro2@27ae2fd0]" started-at="2024-03-18T13:10:57 SGT" name="Method3" finished-at="2024-03-18T13:10:57 SGT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Method3 -->
+      </class> <!-- Intro2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
