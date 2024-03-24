@@ -1,7 +1,7 @@
 import org.openqa.selenium.By;
 
 
-public class Test1 {
+public class Introduction {
 public static void main(String[] args) {
 	
 	
@@ -10,3 +10,7 @@ public static void main(String[] args) {
 }
 
 }
+
+
+	
+
